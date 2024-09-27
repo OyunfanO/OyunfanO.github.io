@@ -14,6 +14,6 @@ Before joining the University of Utah, I was a postdoc researcher under the supe
 I received my Ph.D. in 2021 from Hong Kong Baptist University, where I was supervised by [Xue-cheng Tai](https://scholar.google.no/citations?user=09Jag9sAAAAJ&hl=en).  
 
 My areas of research interest encompass image processing, machine/deep learning, variational methods, and related fields in applied
-mathematics. You can find my CV here: [Fan Jia's Curriculum Vitae](../assets/CV_JIAFan.pdf).
+mathematics. You can find my CV here: [Fan Jia's Curriculum Vitae](../assets/CV_JIAFan24.pdf).
 
 Email: [fan.jia@utah.edu](mailto:fan.jia@utah.edu) 
