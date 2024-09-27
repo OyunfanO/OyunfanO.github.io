@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoc in the Department of Mathematics at the University of Utah. My faculty advisor is Bao Wang. 
+I am a postdoctoral researcher in the Department of Mathematics at the University of Utah, focusing on Machine Learning and Data Science. My faculty advisor is [Bao Wang](https://scholar.google.com/citations?user=_PTiDcoAAAAJ&hl=en). 
 
-I received my Ph.D. from Hong Kong Baptist University in 2021 under the supervision of Xue-cheng Tai.
+Before joining the University of Utah, I was a postdoc researcher under the supervision of [Tieyong Zeng](https://scholar.google.com/citations?user=2yyTgRwAAAAJ&hl=fr) in the Department of Mathematics at the Chinese University of Hong Kong.
+
+I received my Ph.D.  in 2021 from Hong Kong Baptist University, where I was supervised by [Xue-cheng Tai](https://scholar.google.no/citations?user=09Jag9sAAAAJ&hl=en).  
 
 My areas of research interest encompass image processing, machine/deep learning, variational methods, and related fields in applied
 mathematics. You can find my CV here: [Fan Jia's Curriculum Vitae](../assets/CV_JIAFan.pdf).
