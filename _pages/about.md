@@ -14,4 +14,4 @@ I received my Ph.D. from Hong Kong Baptist University in 2021 under the supervis
 My areas of research interest encompass image processing, machine/deep learning, variational methods, and related fields in applied
 mathematics. You can find my CV here: [Fan Jia's Curriculum Vitae](../assets/CV_JIAFan.pdf).
 
-[Emai](mailto:fan.jia@utah.edu) : fan.jia@utah.edu 
+Email: [fan.jia@utah.edu](mailto:fan.jia@utah.edu) 
